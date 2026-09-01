@@ -1,6 +1,6 @@
 # 0001 — Jurisdiction: four display grades over three strategy tiers
 
-**Date:** 2026-09-01 · **Status:** accepted · **Author:** [your name]
+**Date:** 2026-09-01 · **Status:** accepted · **Author:** Philipp Pieper
 
 ## Context
 The strategy and Phase 0 docs define three jurisdiction tiers: EU-jurisdiction, EU-residency-on-US-hyperscaler, US. The Lovable prototype renders four grades A–D, adding "Global / undisclosed" for providers that do not publish where a route runs or who operates it.
